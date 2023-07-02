@@ -1,0 +1,17 @@
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\bin\Debug\net6.0\ProjetoAPI.Aplicacao.deps.json
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\bin\Debug\net6.0\ProjetoAPI.Aplicacao.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\bin\Debug\net6.0\ProjetoAPI.Aplicacao.pdb
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ProjetoAPI.Aplicacao.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ProjetoAPI.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ProjetoAPI.Aplicacao.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ProjetoAPI.Aplicacao.AssemblyInfo.cs
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ProjetoAPI.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ProjetoAPI.Aplicacao.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\refint\ProjetoAPI.Aplicacao.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ProjetoAPI.Aplicacao.pdb
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ref\ProjetoAPI.Aplicacao.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\bin\Debug\net6.0\ProjetoAPI.Dominio.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\bin\Debug\net6.0\ProjetoAPI.Infra.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\bin\Debug\net6.0\ProjetoAPI.Dominio.pdb
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\bin\Debug\net6.0\ProjetoAPI.Infra.pdb
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Aplicacao\obj\Debug\net6.0\ProjetoAPI.Aplicacao.csproj.CopyComplete

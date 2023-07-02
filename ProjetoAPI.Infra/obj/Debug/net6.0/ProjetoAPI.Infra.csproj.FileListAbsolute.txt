@@ -1,0 +1,15 @@
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ProjetoAPI.Infra.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ProjetoAPI.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ProjetoAPI.Infra.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ProjetoAPI.Infra.AssemblyInfo.cs
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ProjetoAPI.Infra.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\bin\Debug\net6.0\ProjetoAPI.Infra.deps.json
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\bin\Debug\net6.0\ProjetoAPI.Infra.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\bin\Debug\net6.0\ProjetoAPI.Infra.pdb
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\bin\Debug\net6.0\ProjetoAPI.Dominio.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\bin\Debug\net6.0\ProjetoAPI.Dominio.pdb
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ProjetoAPI.Infra.csproj.CopyComplete
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ProjetoAPI.Infra.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\refint\ProjetoAPI.Infra.dll
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ProjetoAPI.Infra.pdb
+C:\Desenvolvimento\Projetos\ProjetoAPI\ProjetoAPI.Infra\obj\Debug\net6.0\ref\ProjetoAPI.Infra.dll
