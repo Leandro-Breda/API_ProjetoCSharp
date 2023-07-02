@@ -75,17 +75,14 @@ namespace ProjetoAPI.Controllers
 
         public ActionResult CadastrarProduto([FromBody] ProdutoDTO produtoDTO)
         {
+            if (produtoDTO == null)
+                return BadRequest();
 
-            try
-            {
-                _produtoService.CadastrarProduto(produtoDTO);
-                return Ok("Produto cadastrado com sucesso");
-            }
-            catch (ValorNegativoException ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            var resposta = _produtoService.CadastrarProduto(produtoDTO);
+            return Ok(resposta);
+
         }
+
 
         /// <summary>
         /// Alterar Cliente
