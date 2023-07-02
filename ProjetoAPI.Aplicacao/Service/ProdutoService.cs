@@ -26,6 +26,10 @@ namespace ProjetoAPI.Aplicacao.Service
             {
                 throw new ValorNegativoException("O preço do produto precisa ser maior que zero");
             }
+            if (produtoDTO.Descricao.Length < 3)
+            {
+               throw new ArgumentOutOfRangeException("Descrição precisa ter no minímo 3 caracteres.");
+            }
 
             await _produtoRepositorio.CadastrarProduto(produto);
 
